@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hey, I'm Meghamsh 👋
 
-<!--
-**itsmeghamsh/itsmeghamsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Currently learning: Red Hat Linux, SSH, and C programming  
+💡 Interests: Problem-solving, system administration, open-source  
+🚀 Goal: Build and contribute to real-world tech projects  
+📫 Contact: royalmeghamsh06@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Meghamsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeghamsh&show_icons=true&theme=radical)
+
+
